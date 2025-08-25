@@ -1,0 +1,1 @@
+# standalone-vanilla-web-app
