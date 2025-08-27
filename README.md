@@ -56,8 +56,7 @@ For this particular assignment, graded categories are as follows:
 | Category | Points |
 | -------- | -----: |
 | Baseline functionality | 40 points total |
-| • Ability to enter the necessary arguments:<br/>  - principal<br/>  - interest rate<br/>  - number of times compounded per year<br/>  - total number of years | 15 points |
-| • Correct computation of compound interest | 15 points |
+| • Ability to enter the necessary arguments:<br/>  - principal<br/>  - interest rate<br/>  - number of times compounded per year<br/>  - total number of years<br/>  - correct computation of compound interest | 25 points |
 | • Effective display of result | 10 points |
 | Baseline design/layout | 35 points total |
 | • Responsiveness | 20 points |
@@ -65,6 +64,7 @@ For this particular assignment, graded categories are as follows:
 | Implementation specifications | 20 points |
 | • Background image or gradient<br/>• Non-standard font<br/>• Grid layout for the main content<br/>• Flex layout for the form<br/>• Title<br/>• Fun image(s)<br/>• Input other than text<br/>• Margin<br/>• Padding<br/>• Border<br/>• Transition<br/>• Transform<br/>• Text shadow<br/>• Footer with link | |
 | App description in _about.md_ | 5 points total |
+| AI Review | 5 points |
 | Hard-to-maintain or error-prone code | deduction only |
 | Hard-to-read or inadequately-formatted code | deduction only |
 | Version control | deduction only |
